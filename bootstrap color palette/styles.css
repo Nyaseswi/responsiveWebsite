@@ -1,0 +1,14 @@
+.color-palette-heading{
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+.color-box{
+    /* spacing b/w border & text */ padding: 30px;
+    /* spacing b/w borders */ margin: 10px;
+    margin-bottom: 30px;
+}
+.color-name{
+    /* styling text primary secondary */ color: white;
+    font-size: 24px;
+}
